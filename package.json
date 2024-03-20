@@ -1,0 +1,14 @@
+{
+  "name": "graphql-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.3",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.8.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
